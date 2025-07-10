@@ -1,0 +1,4 @@
+Pratik Prakash
+Machine Learning Engineer
+Skills: Python, Scikit-learn, FastAPI, Streamlit, Resume Parsing
+Experience: 2 years working on NLP and AI-driven tools.

@@ -1,0 +1,3 @@
+Ravi Kumar
+Data Scientist with experience in ML, AI, and deep learning.
+Expert in Python, TensorFlow, PyTorch, and FastAPI for model deployment.

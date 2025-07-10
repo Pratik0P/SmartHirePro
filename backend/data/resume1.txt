@@ -1,0 +1,3 @@
+Pratik Prakash
+Machine Learning Engineer with experience in Python, scikit-learn, pandas, and NLP.
+Worked on resume ranking, chatbot development, and fraud detection projects.
